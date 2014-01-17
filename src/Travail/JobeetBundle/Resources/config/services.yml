@@ -1,0 +1,7 @@
+parameters:
+#    travail_jobeet.example.class: Travail\JobeetBundle\Example
+
+services:
+#    travail_jobeet.example:
+#        class: %travail_jobeet.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
